@@ -1,0 +1,11 @@
+# Obsidian
+.obsidian/workspace*
+.obsidian/cache
+.obsidian/plugins/**/data.json
+.trash/
+
+# OS
+.DS_Store
+
+# (もし使うなら) 大容量・生成物
+*.log
